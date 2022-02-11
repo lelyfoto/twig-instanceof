@@ -1,0 +1,24 @@
+{
+    "name": "lelyfoto/twig-instanceof",
+    "description": "Adds InstanceOf Expression as Twig Extension",
+    "keywords": ["twig", "symfony", "instanceof"],
+    "homepage": "https://github.com/lelyfoto/twig-instanceof",
+    "authors": [
+        {
+            "name": "Michael Erkens",
+            "email": "github@lelyfoto.nl"
+        }
+    ],
+    "type": "symfony-bundle",
+    "require": {
+        "php": "^8.0",
+        "symfony/framework-bundle": "^5.4 || ^6.0",
+        "twig/twig": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lelyfoto\\Twig\\InstanceOf\\": ""
+        }
+    },
+    "license": "MIT"
+}
