@@ -8,7 +8,7 @@ Adds InstanceOf Expression as Twig Extension.
 When you want to check for a specific type of variable in a twig template.
 
 ## Prerequisites
-- PHP 7.4+
+- PHP 8.0+
 - Symfony 5.4 or 6.x
 - Twig 3.x
 
