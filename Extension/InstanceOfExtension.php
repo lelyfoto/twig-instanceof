@@ -10,7 +10,7 @@ use Twig\TwigTest;
 
 class InstanceOfExtension extends AbstractExtension
 {
-    public function getTests()
+    public function getTests(): array
     {
         return [
             new TwigTest(
