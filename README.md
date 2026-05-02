@@ -9,7 +9,7 @@ When you want to check for a specific type of variable in a twig template.
 
 ## Prerequisites
 - PHP 8.0+
-- Symfony 5.4 or 6.x
+- Symfony 5.4, 6.x, 7.x or 8.x
 - Twig 3.x
 
 ## Installation
